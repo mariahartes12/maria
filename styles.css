@@ -2,7 +2,7 @@
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
 @import url("styles/topicos.css");
-@import url("styles/contato.css");
+@import url("styles/contato.css");'
 @import url("styles/rodapé.css");
 
 :root {
@@ -14,7 +14,7 @@
     --azul:##00c4eb;
     --fonte-secundario:"Josefin Sans" Roboto+Mono:ital,wght@1,300&display=swap" rel="stylesheet">;
     --preto: #07f74f;
-    --cinza: #474646;
+    --cinza: 6f6e6e
     --cinza-claro: #858585;
 }
 
