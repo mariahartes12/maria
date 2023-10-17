@@ -6,10 +6,10 @@
 @import url("styles/rodapé.css");
 
 :root {
-    --cor-de-fundo: #EBECEE;
-    --branco: #FFFFFF;
-    --laranja: #ebd000;
-    --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --cor-de-fundo: #c4d4f2;
+    --branco: #c9c9c9;
+    --laranja: #f7db05;
+    --azul-degrade: linear-gradient(97.54deg,#007edb 35.49%, #1883c9 165.37%);
     --fonte-principal: "Poppins";
     --azul:##00c4eb;
     --fonte-secundario:"Josefin Sans" Roboto+Mono:ital,wght@1,300&display=swap" rel="stylesheet">;
